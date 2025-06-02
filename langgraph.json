@@ -1,0 +1,7 @@
+{
+	"dependencies": ["."],
+	"graphs": {
+		"hil_agent": "./hil.py:agent"
+	},
+	"env": ".env"
+}
